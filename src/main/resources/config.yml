@@ -1,0 +1,6 @@
+prot-minutes: 10
+
+messages:
+  prot: "Sorry! You can't attack due to rookie protection."
+  prot-start: "You are now under protection."
+  prot-end: "Your protection has expired."
